@@ -1,0 +1,26 @@
+{
+  "B01": {
+    "building_name": "Shree Ram Heights",
+    "floors": 12,
+    "floor_height_m": 3.0,
+    "claimed_total_height_m": 36.0
+  },
+  "B02": {
+    "building_name": "Cyber Tech Hub",
+    "floors": 8,
+    "floor_height_m": 3.0,
+    "claimed_total_height_m": 24.0
+  },
+  "B03": {
+    "building_name": "Green Valley Towers",
+    "floors": 5,
+    "floor_height_m": 3.0,
+    "claimed_total_height_m": 15.0
+  },
+  "B04": {
+    "building_name": "Imperial Residency",
+    "floors": 3,
+    "floor_height_m": 3.0,
+    "claimed_total_height_m": 9.0
+  }
+}

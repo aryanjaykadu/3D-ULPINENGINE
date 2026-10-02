@@ -1,0 +1,6602 @@
+[
+  {
+    "id": "14MH2704291000-B01-FB1-UB01-Z4BC6",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": -1,
+    "unit_number": "B01",
+    "unit_type": "basement",
+    "name": "Unit B01-FB1-B01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 497.301,
+    "z_max": 500.801,
+    "height_meters": 3.5,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-FB1-UB01-Z4BC6",
+      "property_tax_id": "TAX-MH-B01--1-B01",
+      "title_deed_number": "DEED-2026-4BC6",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:00+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.827,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F01-U01-Z9C1A",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 1,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F01-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.801,
+    "z_max": 503.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F01-U01-Z9C1A",
+      "property_tax_id": "TAX-MH-B01-1-U01",
+      "title_deed_number": "DEED-2026-9C1A",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:01+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.949,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F01-U02-Z5A1D",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 1,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F01-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.801,
+    "z_max": 503.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F01-U02-Z5A1D",
+      "property_tax_id": "TAX-MH-B01-1-U02",
+      "title_deed_number": "DEED-2026-5A1D",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:02+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.727,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F01-U03-Z57E3",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 1,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F01-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.801,
+    "z_max": 503.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F01-U03-Z57E3",
+      "property_tax_id": "TAX-MH-B01-1-U03",
+      "title_deed_number": "DEED-2026-57E3",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:03+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.983,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F01-U04-Z9A0D",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 1,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F01-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.801,
+    "z_max": 503.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F01-U04-Z9A0D",
+      "property_tax_id": "TAX-MH-B01-1-U04",
+      "title_deed_number": "DEED-2026-9A0D",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:04+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.928,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F02-U01-ZA010",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 2,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F02-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.801,
+    "z_max": 506.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F02-U01-ZA010",
+      "property_tax_id": "TAX-MH-B01-2-U01",
+      "title_deed_number": "DEED-2026-A010",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:05+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.737,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F02-U02-ZE53E",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 2,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F02-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.801,
+    "z_max": 506.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F02-U02-ZE53E",
+      "property_tax_id": "TAX-MH-B01-2-U02",
+      "title_deed_number": "DEED-2026-E53E",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:06+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.808,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F02-U03-Z49E4",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 2,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F02-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.801,
+    "z_max": 506.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F02-U03-Z49E4",
+      "property_tax_id": "TAX-MH-B01-2-U03",
+      "title_deed_number": "DEED-2026-49E4",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:07+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.969,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F02-U04-ZFFBF",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 2,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F02-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.801,
+    "z_max": 506.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F02-U04-ZFFBF",
+      "property_tax_id": "TAX-MH-B01-2-U04",
+      "title_deed_number": "DEED-2026-FFBF",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:08+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.939,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F03-U01-Z95C3",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 3,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F03-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 506.801,
+    "z_max": 509.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F03-U01-Z95C3",
+      "property_tax_id": "TAX-MH-B01-3-U01",
+      "title_deed_number": "DEED-2026-95C3",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:09+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.829,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F03-U02-Z9B1A",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 3,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F03-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 506.801,
+    "z_max": 509.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F03-U02-Z9B1A",
+      "property_tax_id": "TAX-MH-B01-3-U02",
+      "title_deed_number": "DEED-2026-9B1A",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:10+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.861,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F03-U03-Z3B71",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 3,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F03-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 506.801,
+    "z_max": 509.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F03-U03-Z3B71",
+      "property_tax_id": "TAX-MH-B01-3-U03",
+      "title_deed_number": "DEED-2026-3B71",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:11+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.719,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F03-U04-ZF42A",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 3,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F03-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 506.801,
+    "z_max": 509.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F03-U04-ZF42A",
+      "property_tax_id": "TAX-MH-B01-3-U04",
+      "title_deed_number": "DEED-2026-F42A",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:12+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.883,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F04-U01-Z30D5",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 4,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F04-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.801,
+    "z_max": 512.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F04-U01-Z30D5",
+      "property_tax_id": "TAX-MH-B01-4-U01",
+      "title_deed_number": "DEED-2026-30D5",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:13+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.92,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F04-U02-ZB9F8",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 4,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F04-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.801,
+    "z_max": 512.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F04-U02-ZB9F8",
+      "property_tax_id": "TAX-MH-B01-4-U02",
+      "title_deed_number": "DEED-2026-B9F8",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:14+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.982,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F04-U03-Z1494",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 4,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F04-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.801,
+    "z_max": 512.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F04-U03-Z1494",
+      "property_tax_id": "TAX-MH-B01-4-U03",
+      "title_deed_number": "DEED-2026-1494",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:15+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.959,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F04-U04-Z0591",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 4,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F04-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.801,
+    "z_max": 512.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F04-U04-Z0591",
+      "property_tax_id": "TAX-MH-B01-4-U04",
+      "title_deed_number": "DEED-2026-0591",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:16+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.756,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F05-U01-ZC1A3",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 5,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F05-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.801,
+    "z_max": 515.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F05-U01-ZC1A3",
+      "property_tax_id": "TAX-MH-B01-5-U01",
+      "title_deed_number": "DEED-2026-C1A3",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:17+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.835,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F05-U02-ZB13D",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 5,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F05-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.801,
+    "z_max": 515.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F05-U02-ZB13D",
+      "property_tax_id": "TAX-MH-B01-5-U02",
+      "title_deed_number": "DEED-2026-B13D",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:18+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.745,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F05-U03-Z61D9",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 5,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F05-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.801,
+    "z_max": 515.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F05-U03-Z61D9",
+      "property_tax_id": "TAX-MH-B01-5-U03",
+      "title_deed_number": "DEED-2026-61D9",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:19+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.898,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F05-U03DUP-ZFC7A",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 5,
+    "unit_number": "U03DUP",
+    "unit_type": "apartment",
+    "name": "Unit B01-F05-U03DUP",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85680421,
+            18.52063356
+          ],
+          [
+            73.85697474,
+            18.52063356
+          ],
+          [
+            73.85697474,
+            18.52075034
+          ],
+          [
+            73.85680421,
+            18.52075034
+          ],
+          [
+            73.85680421,
+            18.52063356
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.801,
+    "z_max": 515.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F05-U03DUP-ZFC7A",
+      "property_tax_id": "TAX-MH-B01-5-U03DUP",
+      "title_deed_number": "DEED-2026-FC7A",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:20+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.981,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F05-U04-Z179F",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 5,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F05-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.801,
+    "z_max": 515.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F05-U04-Z179F",
+      "property_tax_id": "TAX-MH-B01-5-U04",
+      "title_deed_number": "DEED-2026-179F",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:21+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.794,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F06-U01-Z71F6",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 6,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F06-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 515.801,
+    "z_max": 518.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F06-U01-Z71F6",
+      "property_tax_id": "TAX-MH-B01-6-U01",
+      "title_deed_number": "DEED-2026-71F6",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:22+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.836,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F06-U02-Z9F6A",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 6,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F06-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 515.801,
+    "z_max": 518.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F06-U02-Z9F6A",
+      "property_tax_id": "TAX-MH-B01-6-U02",
+      "title_deed_number": "DEED-2026-9F6A",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:23+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.755,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F06-U03-Z116C",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 6,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F06-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 515.801,
+    "z_max": 518.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F06-U03-Z116C",
+      "property_tax_id": "TAX-MH-B01-6-U03",
+      "title_deed_number": "DEED-2026-116C",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:24+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.838,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F06-U04-Z1F4C",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 6,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F06-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 515.801,
+    "z_max": 518.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F06-U04-Z1F4C",
+      "property_tax_id": "TAX-MH-B01-6-U04",
+      "title_deed_number": "DEED-2026-1F4C",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:25+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.766,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F07-U01-Z3D33",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 7,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F07-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 518.801,
+    "z_max": 521.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F07-U01-Z3D33",
+      "property_tax_id": "TAX-MH-B01-7-U01",
+      "title_deed_number": "DEED-2026-3D33",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:26+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.827,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F07-U02-Z7160",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 7,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F07-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.801,
+    "z_max": 518.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F07-U02-Z7160",
+      "property_tax_id": "TAX-MH-B01-7-U02",
+      "title_deed_number": "DEED-2026-7160",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:27+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.941,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F07-U03-Z6D4C",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 7,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F07-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 518.801,
+    "z_max": 521.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F07-U03-Z6D4C",
+      "property_tax_id": "TAX-MH-B01-7-U03",
+      "title_deed_number": "DEED-2026-6D4C",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:28+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.791,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F07-U04-Z4412",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 7,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F07-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 518.801,
+    "z_max": 521.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F07-U04-Z4412",
+      "property_tax_id": "TAX-MH-B01-7-U04",
+      "title_deed_number": "DEED-2026-4412",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:29+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.941,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F08-U01-Z7936",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 8,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F08-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.801,
+    "z_max": 524.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F08-U01-Z7936",
+      "property_tax_id": "TAX-MH-B01-8-U01",
+      "title_deed_number": "DEED-2026-7936",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:30+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.812,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F08-U02-Z4E83",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 8,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F08-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.801,
+    "z_max": 524.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F08-U02-Z4E83",
+      "property_tax_id": "TAX-MH-B01-8-U02",
+      "title_deed_number": "DEED-2026-4E83",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:31+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.784,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F08-U03-ZC5A1",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 8,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F08-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.801,
+    "z_max": 524.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F08-U03-ZC5A1",
+      "property_tax_id": "TAX-MH-B01-8-U03",
+      "title_deed_number": "DEED-2026-C5A1",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:32+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.741,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F08-U04-ZC9CF",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 8,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F08-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.801,
+    "z_max": 524.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F08-U04-ZC9CF",
+      "property_tax_id": "TAX-MH-B01-8-U04",
+      "title_deed_number": "DEED-2026-C9CF",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:33+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.758,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F09-U01-ZDC28",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 9,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F09-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 524.801,
+    "z_max": 527.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F09-U01-ZDC28",
+      "property_tax_id": "TAX-MH-B01-9-U01",
+      "title_deed_number": "DEED-2026-DC28",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:34+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.928,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F09-U02-Z0753",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 9,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F09-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 524.801,
+    "z_max": 527.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F09-U02-Z0753",
+      "property_tax_id": "TAX-MH-B01-9-U02",
+      "title_deed_number": "DEED-2026-0753",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:35+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.893,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F09-U03-Z9824",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 9,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F09-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 524.801,
+    "z_max": 527.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F09-U03-Z9824",
+      "property_tax_id": "TAX-MH-B01-9-U03",
+      "title_deed_number": "DEED-2026-9824",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:36+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.926,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F09-U04-Z9CA6",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 9,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F09-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 524.801,
+    "z_max": 527.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F09-U04-Z9CA6",
+      "property_tax_id": "TAX-MH-B01-9-U04",
+      "title_deed_number": "DEED-2026-9CA6",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:37+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.833,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F10-U01-ZC6FC",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 10,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F10-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 527.801,
+    "z_max": 530.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F10-U01-ZC6FC",
+      "property_tax_id": "TAX-MH-B01-10-U01",
+      "title_deed_number": "DEED-2026-C6FC",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:38+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.741,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F10-U02-Z9BF7",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 10,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F10-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 527.801,
+    "z_max": 530.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F10-U02-Z9BF7",
+      "property_tax_id": "TAX-MH-B01-10-U02",
+      "title_deed_number": "DEED-2026-9BF7",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:39+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.733,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F10-U03-Z7D9B",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 10,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F10-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 527.801,
+    "z_max": 530.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F10-U03-Z7D9B",
+      "property_tax_id": "TAX-MH-B01-10-U03",
+      "title_deed_number": "DEED-2026-7D9B",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:40+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.837,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F10-U04-Z4DE7",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 10,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F10-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 527.801,
+    "z_max": 530.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F10-U04-Z4DE7",
+      "property_tax_id": "TAX-MH-B01-10-U04",
+      "title_deed_number": "DEED-2026-4DE7",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:41+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.864,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F11-U01-ZA3EE",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 11,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F11-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 530.801,
+    "z_max": 533.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F11-U01-ZA3EE",
+      "property_tax_id": "TAX-MH-B01-11-U01",
+      "title_deed_number": "DEED-2026-A3EE",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:42+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.884,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F11-U02-Z054E",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 11,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F11-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 530.801,
+    "z_max": 533.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F11-U02-Z054E",
+      "property_tax_id": "TAX-MH-B01-11-U02",
+      "title_deed_number": "DEED-2026-054E",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:43+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.861,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F11-U03-Z38E9",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 11,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F11-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 530.801,
+    "z_max": 533.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F11-U03-Z38E9",
+      "property_tax_id": "TAX-MH-B01-11-U03",
+      "title_deed_number": "DEED-2026-38E9",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:44+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.788,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F11-U04-Z9F10",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 11,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F11-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 530.801,
+    "z_max": 533.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F11-U04-Z9F10",
+      "property_tax_id": "TAX-MH-B01-11-U04",
+      "title_deed_number": "DEED-2026-9F10",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:45+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.709,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F12-U01-Z6D53",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 12,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B01-F12-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85679474,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 533.801,
+    "z_max": 536.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F12-U01-Z6D53",
+      "property_tax_id": "TAX-MH-B01-12-U01",
+      "title_deed_number": "DEED-2026-6D53",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:46+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.762,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F12-U02-Z2FBA",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 12,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B01-F12-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52048983
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 533.801,
+    "z_max": 536.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F12-U02-Z2FBA",
+      "property_tax_id": "TAX-MH-B01-12-U02",
+      "title_deed_number": "DEED-2026-2FBA",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:47+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.818,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F12-U03-ZA3D4",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 12,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B01-F12-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52075932
+          ],
+          [
+            73.85679474,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 533.801,
+    "z_max": 536.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F12-U03-ZA3D4",
+      "property_tax_id": "TAX-MH-B01-12-U03",
+      "title_deed_number": "DEED-2026-A3D4",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:48+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.768,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B01-F12-U04-ZF815",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B01",
+    "floor_number": 12,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B01-F12-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52062458
+          ],
+          [
+            73.85717369,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52075932
+          ],
+          [
+            73.85698421,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 533.801,
+    "z_max": 536.801,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B01-F12-U04-ZF815",
+      "property_tax_id": "TAX-MH-B01-12-U04",
+      "title_deed_number": "DEED-2026-F815",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:49+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.717,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-FB1-UB01-Z9484",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": -1,
+    "unit_number": "B01",
+    "unit_type": "basement",
+    "name": "Unit B02-FB1-B01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 497.341,
+    "z_max": 500.841,
+    "height_meters": 3.5,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-FB1-UB01-Z9484",
+      "property_tax_id": "TAX-MH-B02--1-B01",
+      "title_deed_number": "DEED-2026-9484",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:00:50+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.785,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F01-U01-ZEBB4",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 1,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B02-F01-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.841,
+    "z_max": 503.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F01-U01-ZEBB4",
+      "property_tax_id": "TAX-MH-B02-1-U01",
+      "title_deed_number": "DEED-2026-EBB4",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:51+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.892,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F01-U02-ZB435",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 1,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B02-F01-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.841,
+    "z_max": 503.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F01-U02-ZB435",
+      "property_tax_id": "TAX-MH-B02-1-U02",
+      "title_deed_number": "DEED-2026-B435",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:52+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.927,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F01-U03-ZFA7F",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 1,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B02-F01-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.841,
+    "z_max": 503.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F01-U03-ZFA7F",
+      "property_tax_id": "TAX-MH-B02-1-U03",
+      "title_deed_number": "DEED-2026-FA7F",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:53+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.893,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F01-U04-Z2DE9",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 1,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B02-F01-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.841,
+    "z_max": 503.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F01-U04-Z2DE9",
+      "property_tax_id": "TAX-MH-B02-1-U04",
+      "title_deed_number": "DEED-2026-2DE9",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:54+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.936,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F02-U01-Z3888",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 2,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B02-F02-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.841,
+    "z_max": 506.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F02-U01-Z3888",
+      "property_tax_id": "TAX-MH-B02-2-U01",
+      "title_deed_number": "DEED-2026-3888",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:55+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.748,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F02-U02-Z2F2C",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 2,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B02-F02-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.841,
+    "z_max": 506.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F02-U02-Z2F2C",
+      "property_tax_id": "TAX-MH-B02-2-U02",
+      "title_deed_number": "DEED-2026-2F2C",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:56+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.726,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F02-U03-Z569E",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 2,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B02-F02-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.841,
+    "z_max": 506.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F02-U03-Z569E",
+      "property_tax_id": "TAX-MH-B02-2-U03",
+      "title_deed_number": "DEED-2026-569E",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:00:57+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.909,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F02-U04-ZE875",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 2,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B02-F02-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.841,
+    "z_max": 506.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F02-U04-ZE875",
+      "property_tax_id": "TAX-MH-B02-2-U04",
+      "title_deed_number": "DEED-2026-E875",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:00:58+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.747,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F03-U01-Z187B",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 3,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B02-F03-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 506.841,
+    "z_max": 509.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F03-U01-Z187B",
+      "property_tax_id": "TAX-MH-B02-3-U01",
+      "title_deed_number": "DEED-2026-187B",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:00:59+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.845,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F03-U02-ZEF75",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 3,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B02-F03-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 506.841,
+    "z_max": 509.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F03-U02-ZEF75",
+      "property_tax_id": "TAX-MH-B02-3-U02",
+      "title_deed_number": "DEED-2026-EF75",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:00+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.902,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F03-U03-Z2CA3",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 3,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B02-F03-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 506.841,
+    "z_max": 509.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F03-U03-Z2CA3",
+      "property_tax_id": "TAX-MH-B02-3-U03",
+      "title_deed_number": "DEED-2026-2CA3",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:01+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.829,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F03-U04-Z3469",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 3,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B02-F03-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 506.841,
+    "z_max": 509.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F03-U04-Z3469",
+      "property_tax_id": "TAX-MH-B02-3-U04",
+      "title_deed_number": "DEED-2026-3469",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:02+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.787,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F04-U01-ZC708",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 4,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B02-F04-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.841,
+    "z_max": 512.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F04-U01-ZC708",
+      "property_tax_id": "TAX-MH-B02-4-U01",
+      "title_deed_number": "DEED-2026-C708",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:03+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.883,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F04-U02-Z50EB",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 4,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B02-F04-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.841,
+    "z_max": 512.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F04-U02-Z50EB",
+      "property_tax_id": "TAX-MH-B02-4-U02",
+      "title_deed_number": "DEED-2026-50EB",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:04+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.725,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F04-U03-Z47C8",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 4,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B02-F04-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.841,
+    "z_max": 512.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F04-U03-Z47C8",
+      "property_tax_id": "TAX-MH-B02-4-U03",
+      "title_deed_number": "DEED-2026-47C8",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:05+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.734,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F04-U04-ZD1AD",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 4,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B02-F04-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.841,
+    "z_max": 512.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F04-U04-ZD1AD",
+      "property_tax_id": "TAX-MH-B02-4-U04",
+      "title_deed_number": "DEED-2026-D1AD",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:06+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.963,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F05-U01-ZF457",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 5,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B02-F05-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.841,
+    "z_max": 515.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F05-U01-ZF457",
+      "property_tax_id": "TAX-MH-B02-5-U01",
+      "title_deed_number": "DEED-2026-F457",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:07+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.903,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F05-U02-ZEB2F",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 5,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B02-F05-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.841,
+    "z_max": 515.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F05-U02-ZEB2F",
+      "property_tax_id": "TAX-MH-B02-5-U02",
+      "title_deed_number": "DEED-2026-EB2F",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:08+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.981,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F05-U03-Z0CF2",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 5,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B02-F05-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.841,
+    "z_max": 515.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F05-U03-Z0CF2",
+      "property_tax_id": "TAX-MH-B02-5-U03",
+      "title_deed_number": "DEED-2026-0CF2",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:09+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.926,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F05-U04-Z8DB4",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 5,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B02-F05-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.841,
+    "z_max": 515.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F05-U04-Z8DB4",
+      "property_tax_id": "TAX-MH-B02-5-U04",
+      "title_deed_number": "DEED-2026-8DB4",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:10+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.83,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F06-U01-ZC255",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 6,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B02-F06-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 515.841,
+    "z_max": 518.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F06-U01-ZC255",
+      "property_tax_id": "TAX-MH-B02-6-U01",
+      "title_deed_number": "DEED-2026-C255",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:11+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.779,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F06-U02-Z3234",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 6,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B02-F06-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 515.841,
+    "z_max": 518.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F06-U02-Z3234",
+      "property_tax_id": "TAX-MH-B02-6-U02",
+      "title_deed_number": "DEED-2026-3234",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:12+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.962,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F06-U03-ZD028",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 6,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B02-F06-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 515.841,
+    "z_max": 518.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F06-U03-ZD028",
+      "property_tax_id": "TAX-MH-B02-6-U03",
+      "title_deed_number": "DEED-2026-D028",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:13+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.832,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F06-U04-Z5556",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 6,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B02-F06-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 515.841,
+    "z_max": 518.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F06-U04-Z5556",
+      "property_tax_id": "TAX-MH-B02-6-U04",
+      "title_deed_number": "DEED-2026-5556",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:14+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.789,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F07-U01-ZD30F",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 7,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B02-F07-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 518.841,
+    "z_max": 521.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F07-U01-ZD30F",
+      "property_tax_id": "TAX-MH-B02-7-U01",
+      "title_deed_number": "DEED-2026-D30F",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:15+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.868,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F07-U02-Z7ACB",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 7,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B02-F07-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 518.841,
+    "z_max": 521.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F07-U02-Z7ACB",
+      "property_tax_id": "TAX-MH-B02-7-U02",
+      "title_deed_number": "DEED-2026-7ACB",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:16+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.948,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F07-U03-Z2DCB",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 7,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B02-F07-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 518.841,
+    "z_max": 521.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F07-U03-Z2DCB",
+      "property_tax_id": "TAX-MH-B02-7-U03",
+      "title_deed_number": "DEED-2026-2DCB",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:17+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.92,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F07-U04-Z55C0",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 7,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B02-F07-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 518.841,
+    "z_max": 521.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F07-U04-Z55C0",
+      "property_tax_id": "TAX-MH-B02-7-U04",
+      "title_deed_number": "DEED-2026-55C0",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:18+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.825,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F08-U01-Z56A8",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 8,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B02-F08-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85755264,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.841,
+    "z_max": 524.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F08-U01-Z56A8",
+      "property_tax_id": "TAX-MH-B02-8-U01",
+      "title_deed_number": "DEED-2026-56A8",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:19+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.882,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F08-U02-Z3711",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 8,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B02-F08-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52048983
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52048983
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.841,
+    "z_max": 524.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F08-U02-Z3711",
+      "property_tax_id": "TAX-MH-B02-8-U02",
+      "title_deed_number": "DEED-2026-3711",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:20+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.888,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F08-U03-Z1425",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 8,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B02-F08-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52075932
+          ],
+          [
+            73.85755264,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.841,
+    "z_max": 524.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F08-U03-Z1425",
+      "property_tax_id": "TAX-MH-B02-8-U03",
+      "title_deed_number": "DEED-2026-1425",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:21+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.724,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B02-F08-U04-Z1C81",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B02",
+    "floor_number": 8,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B02-F08-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52062458
+          ],
+          [
+            73.85793159,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52075932
+          ],
+          [
+            73.85774211,
+            18.52062458
+          ]
+        ]
+      ]
+    },
+    "z_min": 521.841,
+    "z_max": 524.841,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B02-F08-U04-Z1C81",
+      "property_tax_id": "TAX-MH-B02-8-U04",
+      "title_deed_number": "DEED-2026-1C81",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:22+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.712,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F01-U01-ZB20B",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 1,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B03-F01-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.301,
+    "z_max": 503.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F01-U01-ZB20B",
+      "property_tax_id": "TAX-MH-B03-1-U01",
+      "title_deed_number": "DEED-2026-B20B",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:23+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.843,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F01-U02-ZBDC3",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 1,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B03-F01-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.301,
+    "z_max": 503.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F01-U02-ZBDC3",
+      "property_tax_id": "TAX-MH-B03-1-U02",
+      "title_deed_number": "DEED-2026-BDC3",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:24+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.742,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F01-U03-Z8681",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 1,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B03-F01-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.301,
+    "z_max": 503.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F01-U03-Z8681",
+      "property_tax_id": "TAX-MH-B03-1-U03",
+      "title_deed_number": "DEED-2026-8681",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:25+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.73,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F01-U04-Z6A0A",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 1,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B03-F01-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 500.301,
+    "z_max": 503.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F01-U04-Z6A0A",
+      "property_tax_id": "TAX-MH-B03-1-U04",
+      "title_deed_number": "DEED-2026-6A0A",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:26+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.749,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F02-U01-ZB0A4",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 2,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B03-F02-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.301,
+    "z_max": 506.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F02-U01-ZB0A4",
+      "property_tax_id": "TAX-MH-B03-2-U01",
+      "title_deed_number": "DEED-2026-B0A4",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:27+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.968,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F02-U02-Z4C16",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 2,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B03-F02-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.301,
+    "z_max": 506.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F02-U02-Z4C16",
+      "property_tax_id": "TAX-MH-B03-2-U02",
+      "title_deed_number": "DEED-2026-4C16",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:28+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.801,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F02-U03-Z01A0",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 2,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B03-F02-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.301,
+    "z_max": 506.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F02-U03-Z01A0",
+      "property_tax_id": "TAX-MH-B03-2-U03",
+      "title_deed_number": "DEED-2026-01A0",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:29+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.871,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F02-U04-Z11A8",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 2,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B03-F02-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 503.301,
+    "z_max": 506.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F02-U04-Z11A8",
+      "property_tax_id": "TAX-MH-B03-2-U04",
+      "title_deed_number": "DEED-2026-11A8",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:30+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.978,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F03-U01-Z725A",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 3,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B03-F03-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 502.301,
+    "z_max": 505.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F03-U01-Z725A",
+      "property_tax_id": "TAX-MH-B03-3-U01",
+      "title_deed_number": "DEED-2026-725A",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:31+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.84,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F03-U02-Z3DB3",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 3,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B03-F03-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 502.301,
+    "z_max": 505.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F03-U02-Z3DB3",
+      "property_tax_id": "TAX-MH-B03-3-U02",
+      "title_deed_number": "DEED-2026-3DB3",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:32+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.724,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F03-U03-Z0BAC",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 3,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B03-F03-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 502.301,
+    "z_max": 505.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F03-U03-Z0BAC",
+      "property_tax_id": "TAX-MH-B03-3-U03",
+      "title_deed_number": "DEED-2026-0BAC",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:33+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.841,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F03-U04-ZC0C1",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 3,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B03-F03-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 502.301,
+    "z_max": 505.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F03-U04-ZC0C1",
+      "property_tax_id": "TAX-MH-B03-3-U04",
+      "title_deed_number": "DEED-2026-C0C1",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:34+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.972,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F04-U01-Z288E",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 4,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B03-F04-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.301,
+    "z_max": 512.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F04-U01-Z288E",
+      "property_tax_id": "TAX-MH-B03-4-U01",
+      "title_deed_number": "DEED-2026-288E",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:35+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.866,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F04-U02-Z2B53",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 4,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B03-F04-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.301,
+    "z_max": 512.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F04-U02-Z2B53",
+      "property_tax_id": "TAX-MH-B03-4-U02",
+      "title_deed_number": "DEED-2026-2B53",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:36+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.777,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F04-U03-ZFBE1",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 4,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B03-F04-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.301,
+    "z_max": 512.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F04-U03-ZFBE1",
+      "property_tax_id": "TAX-MH-B03-4-U03",
+      "title_deed_number": "DEED-2026-FBE1",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:37+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.796,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F04-U04-Z721B",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 4,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B03-F04-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 509.301,
+    "z_max": 512.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F04-U04-Z721B",
+      "property_tax_id": "TAX-MH-B03-4-U04",
+      "title_deed_number": "DEED-2026-721B",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:38+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.827,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F05-U01-ZB4B6",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 5,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B03-F05-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85679474,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.301,
+    "z_max": 515.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F05-U01-ZB4B6",
+      "property_tax_id": "TAX-MH-B03-5-U01",
+      "title_deed_number": "DEED-2026-B4B6",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:39+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.706,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F05-U02-Z8D4F",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 5,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B03-F05-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52120848
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.301,
+    "z_max": 515.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F05-U02-Z8D4F",
+      "property_tax_id": "TAX-MH-B03-5-U02",
+      "title_deed_number": "DEED-2026-8D4F",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:40+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.96,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F05-U03-Z3600",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 5,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B03-F05-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85679474,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52147797
+          ],
+          [
+            73.85679474,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.301,
+    "z_max": 515.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F05-U03-Z3600",
+      "property_tax_id": "TAX-MH-B03-5-U03",
+      "title_deed_number": "DEED-2026-3600",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:41+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.741,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291200-B03-F05-U04-ZDF05",
+    "parent_2d_ulpin": "14MH27042912",
+    "building_id": "B03",
+    "floor_number": 5,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B03-F05-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85698421,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52134323
+          ],
+          [
+            73.85717369,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52147797
+          ],
+          [
+            73.85698421,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 512.301,
+    "z_max": 515.301,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291200-B03-F05-U04-ZDF05",
+      "property_tax_id": "TAX-MH-B03-5-U04",
+      "title_deed_number": "DEED-2026-DF05",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:42+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.731,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-FB1-UB01-Z0AA0",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": -1,
+    "unit_number": "B01",
+    "unit_type": "basement",
+    "name": "Unit B04-FB1-B01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52120848
+          ],
+          [
+            73.85793159,
+            18.52120848
+          ],
+          [
+            73.85793159,
+            18.52147797
+          ],
+          [
+            73.85755264,
+            18.52147797
+          ],
+          [
+            73.85755264,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 498.66,
+    "z_max": 502.16,
+    "height_meters": 3.5,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-FB1-UB01-Z0AA0",
+      "property_tax_id": "TAX-MH-B04--1-B01",
+      "title_deed_number": "DEED-2026-0AA0",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:43+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.895,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F01-U01-Z2C6E",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 1,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B04-F01-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52120848
+          ],
+          [
+            73.85774211,
+            18.52120848
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85755264,
+            18.52134323
+          ],
+          [
+            73.85755264,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 502.16,
+    "z_max": 505.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F01-U01-Z2C6E",
+      "property_tax_id": "TAX-MH-B04-1-U01",
+      "title_deed_number": "DEED-2026-2C6E",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:44+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.891,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F01-U02-Z0517",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 1,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B04-F01-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52120848
+          ],
+          [
+            73.85793159,
+            18.52120848
+          ],
+          [
+            73.85793159,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 502.16,
+    "z_max": 505.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F01-U02-Z0517",
+      "property_tax_id": "TAX-MH-B04-1-U02",
+      "title_deed_number": "DEED-2026-0517",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:45+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.911,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F01-U03-ZAFC7",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 1,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B04-F01-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52147797
+          ],
+          [
+            73.85755264,
+            18.52147797
+          ],
+          [
+            73.85755264,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 502.16,
+    "z_max": 505.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F01-U03-ZAFC7",
+      "property_tax_id": "TAX-MH-B04-1-U03",
+      "title_deed_number": "DEED-2026-AFC7",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:46+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.731,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F01-U04-Z782C",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 1,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B04-F01-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85793159,
+            18.52134323
+          ],
+          [
+            73.85793159,
+            18.52147797
+          ],
+          [
+            73.85774211,
+            18.52147797
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 502.16,
+    "z_max": 505.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F01-U04-Z782C",
+      "property_tax_id": "TAX-MH-B04-1-U04",
+      "title_deed_number": "DEED-2026-782C",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:47+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.966,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F02-U01-ZDA91",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 2,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B04-F02-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52120848
+          ],
+          [
+            73.85774211,
+            18.52120848
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85755264,
+            18.52134323
+          ],
+          [
+            73.85755264,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 505.16,
+    "z_max": 508.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F02-U01-ZDA91",
+      "property_tax_id": "TAX-MH-B04-2-U01",
+      "title_deed_number": "DEED-2026-DA91",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:48+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.711,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F02-U02-Z0E9B",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 2,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B04-F02-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52120848
+          ],
+          [
+            73.85793159,
+            18.52120848
+          ],
+          [
+            73.85793159,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 505.16,
+    "z_max": 508.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F02-U02-Z0E9B",
+      "property_tax_id": "TAX-MH-B04-2-U02",
+      "title_deed_number": "DEED-2026-0E9B",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:49+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.861,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F02-U03-Z5053",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 2,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B04-F02-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52147797
+          ],
+          [
+            73.85755264,
+            18.52147797
+          ],
+          [
+            73.85755264,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 505.16,
+    "z_max": 508.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F02-U03-Z5053",
+      "property_tax_id": "TAX-MH-B04-2-U03",
+      "title_deed_number": "DEED-2026-5053",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:50+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.941,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F02-U04-Z2FA9",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 2,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B04-F02-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85793159,
+            18.52134323
+          ],
+          [
+            73.85793159,
+            18.52147797
+          ],
+          [
+            73.85774211,
+            18.52147797
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 505.16,
+    "z_max": 508.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F02-U04-Z2FA9",
+      "property_tax_id": "TAX-MH-B04-2-U04",
+      "title_deed_number": "DEED-2026-2FA9",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:51+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.934,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F03-U01-ZBB2A",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 3,
+    "unit_number": "U01",
+    "unit_type": "apartment",
+    "name": "Unit B04-F03-U01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52120848
+          ],
+          [
+            73.85774211,
+            18.52120848
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85755264,
+            18.52134323
+          ],
+          [
+            73.85755264,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 508.16,
+    "z_max": 511.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F03-U01-ZBB2A",
+      "property_tax_id": "TAX-MH-B04-3-U01",
+      "title_deed_number": "DEED-2026-BB2A",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:52+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.976,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F03-U02-Z0C84",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 3,
+    "unit_number": "U02",
+    "unit_type": "apartment",
+    "name": "Unit B04-F03-U02",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52120848
+          ],
+          [
+            73.85793159,
+            18.52120848
+          ],
+          [
+            73.85793159,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52120848
+          ]
+        ]
+      ]
+    },
+    "z_min": 508.16,
+    "z_max": 511.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F03-U02-Z0C84",
+      "property_tax_id": "TAX-MH-B04-3-U02",
+      "title_deed_number": "DEED-2026-0C84",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "BIM / CAD Floor Plan",
+      "sensor_model": "N/A (vector BIM/CAD)",
+      "capture_timestamp": "2026-09-28T00:01:53+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.784,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F03-U03-Z718E",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 3,
+    "unit_number": "U03",
+    "unit_type": "apartment",
+    "name": "Unit B04-F03-U03",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85755264,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85774211,
+            18.52147797
+          ],
+          [
+            73.85755264,
+            18.52147797
+          ],
+          [
+            73.85755264,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 508.16,
+    "z_max": 511.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F03-U03-Z718E",
+      "property_tax_id": "TAX-MH-B04-3-U03",
+      "title_deed_number": "DEED-2026-718E",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:54+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.774,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F03-U04-Z2F03",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 3,
+    "unit_number": "U04",
+    "unit_type": "apartment",
+    "name": "Unit B04-F03-U04",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85774211,
+            18.52134323
+          ],
+          [
+            73.85793159,
+            18.52134323
+          ],
+          [
+            73.85793159,
+            18.52147797
+          ],
+          [
+            73.85774211,
+            18.52147797
+          ],
+          [
+            73.85774211,
+            18.52134323
+          ]
+        ]
+      ]
+    },
+    "z_min": 508.16,
+    "z_max": 511.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F03-U04-Z2F03",
+      "property_tax_id": "TAX-MH-B04-3-U04",
+      "title_deed_number": "DEED-2026-2F03",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Cadastral Survey / GNSS",
+      "sensor_model": "GNSS/CORS rover",
+      "capture_timestamp": "2026-09-28T00:01:55+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.971,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291300-B04-F04-UPH01-ZB05E",
+    "parent_2d_ulpin": "14MH27042913",
+    "building_id": "B04",
+    "floor_number": 4,
+    "unit_number": "PH01",
+    "unit_type": "apartment",
+    "name": "Unit B04-F04-PH01",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85764738,
+            18.52129831
+          ],
+          [
+            73.85778948,
+            18.52129831
+          ],
+          [
+            73.85778948,
+            18.52138814
+          ],
+          [
+            73.85764738,
+            18.52138814
+          ],
+          [
+            73.85764738,
+            18.52129831
+          ]
+        ]
+      ]
+    },
+    "z_min": 511.16,
+    "z_max": 514.16,
+    "height_meters": 3.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291300-B04-F04-UPH01-ZB05E",
+      "property_tax_id": "TAX-MH-B04-4-PH01",
+      "title_deed_number": "DEED-2026-B05E",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:56+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.713,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291000-B99-FB2-UMETRO1-Z5878",
+    "parent_2d_ulpin": "14MH27042910",
+    "building_id": "B99",
+    "floor_number": -2,
+    "unit_number": "METRO1",
+    "unit_type": "transit_corridor",
+    "name": "Unit B99-FB2-METRO1",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85660526,
+            18.52059763
+          ],
+          [
+            73.85741053,
+            18.52059763
+          ],
+          [
+            73.85741053,
+            18.52065153
+          ],
+          [
+            73.85660526,
+            18.52065153
+          ],
+          [
+            73.85660526,
+            18.52059763
+          ]
+        ]
+      ]
+    },
+    "z_min": 486.801,
+    "z_max": 492.801,
+    "height_meters": 6.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291000-B99-FB2-UMETRO1-Z5878",
+      "property_tax_id": "TAX-MH-B99--2-METRO1",
+      "title_deed_number": "DEED-2026-5878",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "LiDAR / Drone Mesh",
+      "sensor_model": "DJI Zenmuse L1",
+      "capture_timestamp": "2026-09-28T00:01:57+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.826,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291100-B99-FB2-UMETRO2-Z1BB7",
+    "parent_2d_ulpin": "14MH27042911",
+    "building_id": "B99",
+    "floor_number": -2,
+    "unit_number": "METRO2",
+    "unit_type": "transit_corridor",
+    "name": "Unit B99-FB2-METRO2",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.85741053,
+            18.52059763
+          ],
+          [
+            73.85812106,
+            18.52059763
+          ],
+          [
+            73.85812106,
+            18.52065153
+          ],
+          [
+            73.85741053,
+            18.52065153
+          ],
+          [
+            73.85741053,
+            18.52059763
+          ]
+        ]
+      ]
+    },
+    "z_min": 492.841,
+    "z_max": 498.341,
+    "height_meters": 5.5,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291100-B99-FB2-UMETRO2-Z1BB7",
+      "property_tax_id": "TAX-MH-B99--2-METRO2",
+      "title_deed_number": "DEED-2026-1BB7",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:58+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.959,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  },
+  {
+    "id": "14MH2704291400-B99-FB2-UTIL1-Z3D8D",
+    "parent_2d_ulpin": "14MH27042914",
+    "building_id": "B99",
+    "floor_number": -2,
+    "unit_number": "UTIL1",
+    "unit_type": "utility_corridor",
+    "name": "Unit B99-FB2-UTIL1",
+    "footprint": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            73.8567,
+            18.52097492
+          ],
+          [
+            73.85802633,
+            18.52097492
+          ],
+          [
+            73.85802633,
+            18.52099289
+          ],
+          [
+            73.8567,
+            18.52099289
+          ],
+          [
+            73.8567,
+            18.52097492
+          ]
+        ]
+      ]
+    },
+    "z_min": 498.412,
+    "z_max": 499.412,
+    "height_meters": 1.0,
+    "ownership": {
+      "owner_name": "Owner of 14MH2704291400-B99-FB2-UTIL1-Z3D8D",
+      "property_tax_id": "TAX-MH-B99--2-UTIL1",
+      "title_deed_number": "DEED-2026-3D8D",
+      "encumbrance_status": "Clear",
+      "occupancy_type": "Freehold"
+    },
+    "provenance": {
+      "source_type": "Mobile Mapping LiDAR",
+      "sensor_model": "Mobile mapping LiDAR",
+      "capture_timestamp": "2026-09-28T00:01:59+00:00",
+      "processing_agent": "3D-ULPIN-Synthetic-Data-Generator",
+      "verification_status": "CANDIDATE_UNVERIFIED"
+    },
+    "confidence_score": 0.917,
+    "disclaimer": "Prototype 3D ULPIN — proposed format, candidate spatial unit requiring human verification before becoming authoritative (Not an official DoLR/Survey of India standard)."
+  }
+]

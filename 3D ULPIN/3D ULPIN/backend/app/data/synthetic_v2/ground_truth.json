@@ -1,0 +1,194 @@
+{
+  "note": "Synthetic. Problems deliberately planted in the data. 'units' are current IDs; 'legacy_units' are the original A-F05-U03 style codes (column legacy_code).",
+  "issues": [
+    {
+      "id": 1,
+      "type": "invalid_z_range",
+      "units": [
+        "14MH2704291000-B01-F07-U02-Z7160"
+      ],
+      "legacy_units": [
+        "A-F07-U02"
+      ],
+      "detail": "z_min > z_max"
+    },
+    {
+      "id": 2,
+      "type": "duplicate_volume_overlap",
+      "units": [
+        "14MH2704291000-B01-F05-U03-Z61D9",
+        "14MH2704291000-B01-F05-U03DUP-ZFC7A"
+      ],
+      "legacy_units": [
+        "A-F05-U03",
+        "A-F05-U03-DUP"
+      ],
+      "detail": "same flat registered twice (3D overlap)"
+    },
+    {
+      "id": 3,
+      "type": "floor_height_non_monotonic",
+      "units": [
+        "14MH2704291200-B03-F03-U01-Z725A",
+        "14MH2704291200-B03-F03-U02-Z3DB3",
+        "14MH2704291200-B03-F03-U03-Z0BAC",
+        "14MH2704291200-B03-F03-U04-ZC0C1"
+      ],
+      "legacy_units": [
+        "C-F03-U01",
+        "C-F03-U02",
+        "C-F03-U03",
+        "C-F03-U04"
+      ],
+      "detail": "floor 3 recorded 2.0-5.0 m above base, overlapping floors 1 and 2; LiDAR slabs show normal 3 m spacing"
+    },
+    {
+      "id": 4,
+      "type": "true_3d_clash",
+      "units": [
+        "14MH2704291100-B99-FB2-UMETRO2-Z1BB7",
+        "14MH2704291100-B02-FB1-UB01-Z9484"
+      ],
+      "legacy_units": [
+        "T-01-SEG2",
+        "B-B01"
+      ],
+      "detail": "metro tunnel intrudes ~1 m into building B02 basement (footprints overlap in 2D too)"
+    },
+    {
+      "id": 5,
+      "type": "unsanctioned_extension",
+      "units": [
+        "14MH2704291300-B04-F04-UPH01-ZB05E"
+      ],
+      "legacy_units": [
+        "D-F04-PH"
+      ],
+      "detail": "unit above B04 sanctioned height (3 floors); LiDAR confirms a structure there"
+    },
+    {
+      "id": 6,
+      "type": "cross_sensor_discrepancy",
+      "building": "B02",
+      "units": [
+        "14MH2704291100-B02-FB1-UB01-Z9484",
+        "14MH2704291100-B02-F01-U01-ZEBB4",
+        "14MH2704291100-B02-F01-U02-ZB435",
+        "14MH2704291100-B02-F01-U03-ZFA7F",
+        "14MH2704291100-B02-F01-U04-Z2DE9",
+        "14MH2704291100-B02-F02-U01-Z3888",
+        "14MH2704291100-B02-F02-U02-Z2F2C",
+        "14MH2704291100-B02-F02-U03-Z569E",
+        "14MH2704291100-B02-F02-U04-ZE875",
+        "14MH2704291100-B02-F03-U01-Z187B",
+        "14MH2704291100-B02-F03-U02-ZEF75",
+        "14MH2704291100-B02-F03-U03-Z2CA3",
+        "14MH2704291100-B02-F03-U04-Z3469",
+        "14MH2704291100-B02-F04-U01-ZC708",
+        "14MH2704291100-B02-F04-U02-Z50EB",
+        "14MH2704291100-B02-F04-U03-Z47C8",
+        "14MH2704291100-B02-F04-U04-ZD1AD",
+        "14MH2704291100-B02-F05-U01-ZF457",
+        "14MH2704291100-B02-F05-U02-ZEB2F",
+        "14MH2704291100-B02-F05-U03-Z0CF2",
+        "14MH2704291100-B02-F05-U04-Z8DB4",
+        "14MH2704291100-B02-F06-U01-ZC255",
+        "14MH2704291100-B02-F06-U02-Z3234",
+        "14MH2704291100-B02-F06-U03-ZD028",
+        "14MH2704291100-B02-F06-U04-Z5556",
+        "14MH2704291100-B02-F07-U01-ZD30F",
+        "14MH2704291100-B02-F07-U02-Z7ACB",
+        "14MH2704291100-B02-F07-U03-Z2DCB",
+        "14MH2704291100-B02-F07-U04-Z55C0",
+        "14MH2704291100-B02-F08-U01-Z56A8",
+        "14MH2704291100-B02-F08-U02-Z3711",
+        "14MH2704291100-B02-F08-U03-Z1425",
+        "14MH2704291100-B02-F08-U04-Z1C81"
+      ],
+      "legacy_units": [
+        "B-B01",
+        "B-F01-U01",
+        "B-F01-U02",
+        "B-F01-U03",
+        "B-F01-U04",
+        "B-F02-U01",
+        "B-F02-U02",
+        "B-F02-U03",
+        "B-F02-U04",
+        "B-F03-U01",
+        "B-F03-U02",
+        "B-F03-U03",
+        "B-F03-U04",
+        "B-F04-U01",
+        "B-F04-U02",
+        "B-F04-U03",
+        "B-F04-U04",
+        "B-F05-U01",
+        "B-F05-U02",
+        "B-F05-U03",
+        "B-F05-U04",
+        "B-F06-U01",
+        "B-F06-U02",
+        "B-F06-U03",
+        "B-F06-U04",
+        "B-F07-U01",
+        "B-F07-U02",
+        "B-F07-U03",
+        "B-F07-U04",
+        "B-F08-U01",
+        "B-F08-U02",
+        "B-F08-U03",
+        "B-F08-U04"
+      ],
+      "detail": "floor plans claim 24.0 m; LiDAR roof is 1.8 m higher"
+    }
+  ],
+  "clean_negatives": [
+    "14MH2704291400-B99-FB2-UTIL1-Z3D8D",
+    "14MH2704291000-B99-FB2-UMETRO1-Z5878",
+    "T-01-SEG1 / T-01-SEG2 touch at x=75 but do not overlap"
+  ],
+  "expected_3d_overlap_pairs": 10,
+  "expected_overlap_pairs_ids": [
+    [
+      "14MH2704291000-B01-F05-U03-Z61D9",
+      "14MH2704291000-B01-F05-U03DUP-ZFC7A"
+    ],
+    [
+      "14MH2704291100-B02-FB1-UB01-Z9484",
+      "14MH2704291100-B99-FB2-UMETRO2-Z1BB7"
+    ],
+    [
+      "14MH2704291200-B03-F01-U01-ZB20B",
+      "14MH2704291200-B03-F03-U01-Z725A"
+    ],
+    [
+      "14MH2704291200-B03-F01-U02-ZBDC3",
+      "14MH2704291200-B03-F03-U02-Z3DB3"
+    ],
+    [
+      "14MH2704291200-B03-F01-U03-Z8681",
+      "14MH2704291200-B03-F03-U03-Z0BAC"
+    ],
+    [
+      "14MH2704291200-B03-F01-U04-Z6A0A",
+      "14MH2704291200-B03-F03-U04-ZC0C1"
+    ],
+    [
+      "14MH2704291200-B03-F02-U01-ZB0A4",
+      "14MH2704291200-B03-F03-U01-Z725A"
+    ],
+    [
+      "14MH2704291200-B03-F02-U02-Z4C16",
+      "14MH2704291200-B03-F03-U02-Z3DB3"
+    ],
+    [
+      "14MH2704291200-B03-F02-U03-Z01A0",
+      "14MH2704291200-B03-F03-U03-Z0BAC"
+    ],
+    [
+      "14MH2704291200-B03-F02-U04-Z11A8",
+      "14MH2704291200-B03-F03-U04-ZC0C1"
+    ]
+  ]
+}

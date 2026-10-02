@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B01",
+        "building_name": "Shree Ram Heights",
+        "parcel_id": "P-A",
+        "base_ulpin_2d": "14MH27042910",
+        "floors_declared": 12,
+        "has_basement": true,
+        "ground_elev_m": 500.801,
+        "sanctioned_z_max": 536.801,
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B02",
+        "building_name": "Cyber Tech Hub",
+        "parcel_id": "P-B",
+        "base_ulpin_2d": "14MH27042911",
+        "floors_declared": 8,
+        "has_basement": true,
+        "ground_elev_m": 500.841,
+        "sanctioned_z_max": 524.841,
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B03",
+        "building_name": "Green Valley Towers",
+        "parcel_id": "P-C",
+        "base_ulpin_2d": "14MH27042912",
+        "floors_declared": 5,
+        "has_basement": false,
+        "ground_elev_m": 500.301,
+        "sanctioned_z_max": 515.301,
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B04",
+        "building_name": "Imperial Residency",
+        "parcel_id": "P-D",
+        "base_ulpin_2d": "14MH27042913",
+        "floors_declared": 3,
+        "has_basement": true,
+        "ground_elev_m": 502.16,
+        "sanctioned_z_max": 511.16,
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

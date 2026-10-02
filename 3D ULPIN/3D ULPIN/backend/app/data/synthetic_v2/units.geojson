@@ -1,0 +1,5525 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-FB1-UB01-Z4BC6",
+        "legacy_code": "A-B01",
+        "type": "basement",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": -1,
+        "unit_number": "B01",
+        "z_min": 497.301,
+        "z_max": 500.801,
+        "height_meters": 3.5,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.827,
+        "z_hash": "4BC6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F01-U01-Z9C1A",
+        "legacy_code": "A-F01-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 1,
+        "unit_number": "U01",
+        "z_min": 500.801,
+        "z_max": 503.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.949,
+        "z_hash": "9C1A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F01-U02-Z5A1D",
+        "legacy_code": "A-F01-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 1,
+        "unit_number": "U02",
+        "z_min": 500.801,
+        "z_max": 503.801,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.727,
+        "z_hash": "5A1D"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F01-U03-Z57E3",
+        "legacy_code": "A-F01-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 1,
+        "unit_number": "U03",
+        "z_min": 500.801,
+        "z_max": 503.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.983,
+        "z_hash": "57E3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F01-U04-Z9A0D",
+        "legacy_code": "A-F01-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 1,
+        "unit_number": "U04",
+        "z_min": 500.801,
+        "z_max": 503.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.928,
+        "z_hash": "9A0D"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F02-U01-ZA010",
+        "legacy_code": "A-F02-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 2,
+        "unit_number": "U01",
+        "z_min": 503.801,
+        "z_max": 506.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.737,
+        "z_hash": "A010"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F02-U02-ZE53E",
+        "legacy_code": "A-F02-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 2,
+        "unit_number": "U02",
+        "z_min": 503.801,
+        "z_max": 506.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.808,
+        "z_hash": "E53E"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F02-U03-Z49E4",
+        "legacy_code": "A-F02-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 2,
+        "unit_number": "U03",
+        "z_min": 503.801,
+        "z_max": 506.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.969,
+        "z_hash": "49E4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F02-U04-ZFFBF",
+        "legacy_code": "A-F02-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 2,
+        "unit_number": "U04",
+        "z_min": 503.801,
+        "z_max": 506.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.939,
+        "z_hash": "FFBF"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F03-U01-Z95C3",
+        "legacy_code": "A-F03-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 3,
+        "unit_number": "U01",
+        "z_min": 506.801,
+        "z_max": 509.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.829,
+        "z_hash": "95C3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F03-U02-Z9B1A",
+        "legacy_code": "A-F03-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 3,
+        "unit_number": "U02",
+        "z_min": 506.801,
+        "z_max": 509.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.861,
+        "z_hash": "9B1A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F03-U03-Z3B71",
+        "legacy_code": "A-F03-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 3,
+        "unit_number": "U03",
+        "z_min": 506.801,
+        "z_max": 509.801,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.719,
+        "z_hash": "3B71"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F03-U04-ZF42A",
+        "legacy_code": "A-F03-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 3,
+        "unit_number": "U04",
+        "z_min": 506.801,
+        "z_max": 509.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.883,
+        "z_hash": "F42A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F04-U01-Z30D5",
+        "legacy_code": "A-F04-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 4,
+        "unit_number": "U01",
+        "z_min": 509.801,
+        "z_max": 512.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.92,
+        "z_hash": "30D5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F04-U02-ZB9F8",
+        "legacy_code": "A-F04-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 4,
+        "unit_number": "U02",
+        "z_min": 509.801,
+        "z_max": 512.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.982,
+        "z_hash": "B9F8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F04-U03-Z1494",
+        "legacy_code": "A-F04-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 4,
+        "unit_number": "U03",
+        "z_min": 509.801,
+        "z_max": 512.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.959,
+        "z_hash": "1494"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F04-U04-Z0591",
+        "legacy_code": "A-F04-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 4,
+        "unit_number": "U04",
+        "z_min": 509.801,
+        "z_max": 512.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.756,
+        "z_hash": "0591"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F05-U01-ZC1A3",
+        "legacy_code": "A-F05-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 5,
+        "unit_number": "U01",
+        "z_min": 512.801,
+        "z_max": 515.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.835,
+        "z_hash": "C1A3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F05-U02-ZB13D",
+        "legacy_code": "A-F05-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 5,
+        "unit_number": "U02",
+        "z_min": 512.801,
+        "z_max": 515.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.745,
+        "z_hash": "B13D"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F05-U03-Z61D9",
+        "legacy_code": "A-F05-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 5,
+        "unit_number": "U03",
+        "z_min": 512.801,
+        "z_max": 515.801,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.898,
+        "z_hash": "61D9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F05-U03DUP-ZFC7A",
+        "legacy_code": "A-F05-U03-DUP",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 5,
+        "unit_number": "U03DUP",
+        "z_min": 512.801,
+        "z_max": 515.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.981,
+        "z_hash": "FC7A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85680421,
+              18.52063356
+            ],
+            [
+              73.85697474,
+              18.52063356
+            ],
+            [
+              73.85697474,
+              18.52075034
+            ],
+            [
+              73.85680421,
+              18.52075034
+            ],
+            [
+              73.85680421,
+              18.52063356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F05-U04-Z179F",
+        "legacy_code": "A-F05-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 5,
+        "unit_number": "U04",
+        "z_min": 512.801,
+        "z_max": 515.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.794,
+        "z_hash": "179F"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F06-U01-Z71F6",
+        "legacy_code": "A-F06-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 6,
+        "unit_number": "U01",
+        "z_min": 515.801,
+        "z_max": 518.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.836,
+        "z_hash": "71F6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F06-U02-Z9F6A",
+        "legacy_code": "A-F06-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 6,
+        "unit_number": "U02",
+        "z_min": 515.801,
+        "z_max": 518.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.755,
+        "z_hash": "9F6A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F06-U03-Z116C",
+        "legacy_code": "A-F06-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 6,
+        "unit_number": "U03",
+        "z_min": 515.801,
+        "z_max": 518.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.838,
+        "z_hash": "116C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F06-U04-Z1F4C",
+        "legacy_code": "A-F06-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 6,
+        "unit_number": "U04",
+        "z_min": 515.801,
+        "z_max": 518.801,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.766,
+        "z_hash": "1F4C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F07-U01-Z3D33",
+        "legacy_code": "A-F07-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 7,
+        "unit_number": "U01",
+        "z_min": 518.801,
+        "z_max": 521.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.827,
+        "z_hash": "3D33"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F07-U02-Z7160",
+        "legacy_code": "A-F07-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 7,
+        "unit_number": "U02",
+        "z_min": 521.801,
+        "z_max": 518.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.941,
+        "z_hash": "7160"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F07-U03-Z6D4C",
+        "legacy_code": "A-F07-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 7,
+        "unit_number": "U03",
+        "z_min": 518.801,
+        "z_max": 521.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.791,
+        "z_hash": "6D4C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F07-U04-Z4412",
+        "legacy_code": "A-F07-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 7,
+        "unit_number": "U04",
+        "z_min": 518.801,
+        "z_max": 521.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.941,
+        "z_hash": "4412"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F08-U01-Z7936",
+        "legacy_code": "A-F08-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 8,
+        "unit_number": "U01",
+        "z_min": 521.801,
+        "z_max": 524.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.812,
+        "z_hash": "7936"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F08-U02-Z4E83",
+        "legacy_code": "A-F08-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 8,
+        "unit_number": "U02",
+        "z_min": 521.801,
+        "z_max": 524.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.784,
+        "z_hash": "4E83"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F08-U03-ZC5A1",
+        "legacy_code": "A-F08-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 8,
+        "unit_number": "U03",
+        "z_min": 521.801,
+        "z_max": 524.801,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.741,
+        "z_hash": "C5A1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F08-U04-ZC9CF",
+        "legacy_code": "A-F08-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 8,
+        "unit_number": "U04",
+        "z_min": 521.801,
+        "z_max": 524.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.758,
+        "z_hash": "C9CF"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F09-U01-ZDC28",
+        "legacy_code": "A-F09-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 9,
+        "unit_number": "U01",
+        "z_min": 524.801,
+        "z_max": 527.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.928,
+        "z_hash": "DC28"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F09-U02-Z0753",
+        "legacy_code": "A-F09-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 9,
+        "unit_number": "U02",
+        "z_min": 524.801,
+        "z_max": 527.801,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.893,
+        "z_hash": "0753"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F09-U03-Z9824",
+        "legacy_code": "A-F09-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 9,
+        "unit_number": "U03",
+        "z_min": 524.801,
+        "z_max": 527.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.926,
+        "z_hash": "9824"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F09-U04-Z9CA6",
+        "legacy_code": "A-F09-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 9,
+        "unit_number": "U04",
+        "z_min": 524.801,
+        "z_max": 527.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.833,
+        "z_hash": "9CA6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F10-U01-ZC6FC",
+        "legacy_code": "A-F10-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 10,
+        "unit_number": "U01",
+        "z_min": 527.801,
+        "z_max": 530.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.741,
+        "z_hash": "C6FC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F10-U02-Z9BF7",
+        "legacy_code": "A-F10-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 10,
+        "unit_number": "U02",
+        "z_min": 527.801,
+        "z_max": 530.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.733,
+        "z_hash": "9BF7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F10-U03-Z7D9B",
+        "legacy_code": "A-F10-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 10,
+        "unit_number": "U03",
+        "z_min": 527.801,
+        "z_max": 530.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.837,
+        "z_hash": "7D9B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F10-U04-Z4DE7",
+        "legacy_code": "A-F10-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 10,
+        "unit_number": "U04",
+        "z_min": 527.801,
+        "z_max": 530.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.864,
+        "z_hash": "4DE7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F11-U01-ZA3EE",
+        "legacy_code": "A-F11-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 11,
+        "unit_number": "U01",
+        "z_min": 530.801,
+        "z_max": 533.801,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.884,
+        "z_hash": "A3EE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F11-U02-Z054E",
+        "legacy_code": "A-F11-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 11,
+        "unit_number": "U02",
+        "z_min": 530.801,
+        "z_max": 533.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.861,
+        "z_hash": "054E"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F11-U03-Z38E9",
+        "legacy_code": "A-F11-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 11,
+        "unit_number": "U03",
+        "z_min": 530.801,
+        "z_max": 533.801,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.788,
+        "z_hash": "38E9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F11-U04-Z9F10",
+        "legacy_code": "A-F11-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 11,
+        "unit_number": "U04",
+        "z_min": 530.801,
+        "z_max": 533.801,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.709,
+        "z_hash": "9F10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F12-U01-Z6D53",
+        "legacy_code": "A-F12-U01",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 12,
+        "unit_number": "U01",
+        "z_min": 533.801,
+        "z_max": 536.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.762,
+        "z_hash": "6D53"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85679474,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F12-U02-Z2FBA",
+        "legacy_code": "A-F12-U02",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 12,
+        "unit_number": "U02",
+        "z_min": 533.801,
+        "z_max": 536.801,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.818,
+        "z_hash": "2FBA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52048983
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F12-U03-ZA3D4",
+        "legacy_code": "A-F12-U03",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 12,
+        "unit_number": "U03",
+        "z_min": 533.801,
+        "z_max": 536.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.768,
+        "z_hash": "A3D4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52075932
+            ],
+            [
+              73.85679474,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B01-F12-U04-ZF815",
+        "legacy_code": "A-F12-U04",
+        "type": "apartment",
+        "building_id": "B01",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": 12,
+        "unit_number": "U04",
+        "z_min": 533.801,
+        "z_max": 536.801,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.717,
+        "z_hash": "F815"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52062458
+            ],
+            [
+              73.85717369,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52075932
+            ],
+            [
+              73.85698421,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-FB1-UB01-Z9484",
+        "legacy_code": "B-B01",
+        "type": "basement",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": -1,
+        "unit_number": "B01",
+        "z_min": 497.341,
+        "z_max": 500.841,
+        "height_meters": 3.5,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.785,
+        "z_hash": "9484"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F01-U01-ZEBB4",
+        "legacy_code": "B-F01-U01",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 1,
+        "unit_number": "U01",
+        "z_min": 500.841,
+        "z_max": 503.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.892,
+        "z_hash": "EBB4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F01-U02-ZB435",
+        "legacy_code": "B-F01-U02",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 1,
+        "unit_number": "U02",
+        "z_min": 500.841,
+        "z_max": 503.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.927,
+        "z_hash": "B435"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F01-U03-ZFA7F",
+        "legacy_code": "B-F01-U03",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 1,
+        "unit_number": "U03",
+        "z_min": 500.841,
+        "z_max": 503.841,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.893,
+        "z_hash": "FA7F"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F01-U04-Z2DE9",
+        "legacy_code": "B-F01-U04",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 1,
+        "unit_number": "U04",
+        "z_min": 500.841,
+        "z_max": 503.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.936,
+        "z_hash": "2DE9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F02-U01-Z3888",
+        "legacy_code": "B-F02-U01",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 2,
+        "unit_number": "U01",
+        "z_min": 503.841,
+        "z_max": 506.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.748,
+        "z_hash": "3888"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F02-U02-Z2F2C",
+        "legacy_code": "B-F02-U02",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 2,
+        "unit_number": "U02",
+        "z_min": 503.841,
+        "z_max": 506.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.726,
+        "z_hash": "2F2C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F02-U03-Z569E",
+        "legacy_code": "B-F02-U03",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 2,
+        "unit_number": "U03",
+        "z_min": 503.841,
+        "z_max": 506.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.909,
+        "z_hash": "569E"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F02-U04-ZE875",
+        "legacy_code": "B-F02-U04",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 2,
+        "unit_number": "U04",
+        "z_min": 503.841,
+        "z_max": 506.841,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.747,
+        "z_hash": "E875"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F03-U01-Z187B",
+        "legacy_code": "B-F03-U01",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 3,
+        "unit_number": "U01",
+        "z_min": 506.841,
+        "z_max": 509.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.845,
+        "z_hash": "187B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F03-U02-ZEF75",
+        "legacy_code": "B-F03-U02",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 3,
+        "unit_number": "U02",
+        "z_min": 506.841,
+        "z_max": 509.841,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.902,
+        "z_hash": "EF75"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F03-U03-Z2CA3",
+        "legacy_code": "B-F03-U03",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 3,
+        "unit_number": "U03",
+        "z_min": 506.841,
+        "z_max": 509.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.829,
+        "z_hash": "2CA3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F03-U04-Z3469",
+        "legacy_code": "B-F03-U04",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 3,
+        "unit_number": "U04",
+        "z_min": 506.841,
+        "z_max": 509.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.787,
+        "z_hash": "3469"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F04-U01-ZC708",
+        "legacy_code": "B-F04-U01",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 4,
+        "unit_number": "U01",
+        "z_min": 509.841,
+        "z_max": 512.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.883,
+        "z_hash": "C708"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F04-U02-Z50EB",
+        "legacy_code": "B-F04-U02",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 4,
+        "unit_number": "U02",
+        "z_min": 509.841,
+        "z_max": 512.841,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.725,
+        "z_hash": "50EB"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F04-U03-Z47C8",
+        "legacy_code": "B-F04-U03",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 4,
+        "unit_number": "U03",
+        "z_min": 509.841,
+        "z_max": 512.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.734,
+        "z_hash": "47C8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F04-U04-ZD1AD",
+        "legacy_code": "B-F04-U04",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 4,
+        "unit_number": "U04",
+        "z_min": 509.841,
+        "z_max": 512.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.963,
+        "z_hash": "D1AD"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F05-U01-ZF457",
+        "legacy_code": "B-F05-U01",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 5,
+        "unit_number": "U01",
+        "z_min": 512.841,
+        "z_max": 515.841,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.903,
+        "z_hash": "F457"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F05-U02-ZEB2F",
+        "legacy_code": "B-F05-U02",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 5,
+        "unit_number": "U02",
+        "z_min": 512.841,
+        "z_max": 515.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.981,
+        "z_hash": "EB2F"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F05-U03-Z0CF2",
+        "legacy_code": "B-F05-U03",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 5,
+        "unit_number": "U03",
+        "z_min": 512.841,
+        "z_max": 515.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.926,
+        "z_hash": "0CF2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F05-U04-Z8DB4",
+        "legacy_code": "B-F05-U04",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 5,
+        "unit_number": "U04",
+        "z_min": 512.841,
+        "z_max": 515.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.83,
+        "z_hash": "8DB4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F06-U01-ZC255",
+        "legacy_code": "B-F06-U01",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 6,
+        "unit_number": "U01",
+        "z_min": 515.841,
+        "z_max": 518.841,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.779,
+        "z_hash": "C255"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F06-U02-Z3234",
+        "legacy_code": "B-F06-U02",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 6,
+        "unit_number": "U02",
+        "z_min": 515.841,
+        "z_max": 518.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.962,
+        "z_hash": "3234"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F06-U03-ZD028",
+        "legacy_code": "B-F06-U03",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 6,
+        "unit_number": "U03",
+        "z_min": 515.841,
+        "z_max": 518.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.832,
+        "z_hash": "D028"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F06-U04-Z5556",
+        "legacy_code": "B-F06-U04",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 6,
+        "unit_number": "U04",
+        "z_min": 515.841,
+        "z_max": 518.841,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.789,
+        "z_hash": "5556"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F07-U01-ZD30F",
+        "legacy_code": "B-F07-U01",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 7,
+        "unit_number": "U01",
+        "z_min": 518.841,
+        "z_max": 521.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.868,
+        "z_hash": "D30F"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F07-U02-Z7ACB",
+        "legacy_code": "B-F07-U02",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 7,
+        "unit_number": "U02",
+        "z_min": 518.841,
+        "z_max": 521.841,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.948,
+        "z_hash": "7ACB"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F07-U03-Z2DCB",
+        "legacy_code": "B-F07-U03",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 7,
+        "unit_number": "U03",
+        "z_min": 518.841,
+        "z_max": 521.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.92,
+        "z_hash": "2DCB"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F07-U04-Z55C0",
+        "legacy_code": "B-F07-U04",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 7,
+        "unit_number": "U04",
+        "z_min": 518.841,
+        "z_max": 521.841,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.825,
+        "z_hash": "55C0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F08-U01-Z56A8",
+        "legacy_code": "B-F08-U01",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 8,
+        "unit_number": "U01",
+        "z_min": 521.841,
+        "z_max": 524.841,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.882,
+        "z_hash": "56A8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85755264,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F08-U02-Z3711",
+        "legacy_code": "B-F08-U02",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 8,
+        "unit_number": "U02",
+        "z_min": 521.841,
+        "z_max": 524.841,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.888,
+        "z_hash": "3711"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52048983
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52048983
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F08-U03-Z1425",
+        "legacy_code": "B-F08-U03",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 8,
+        "unit_number": "U03",
+        "z_min": 521.841,
+        "z_max": 524.841,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.724,
+        "z_hash": "1425"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52075932
+            ],
+            [
+              73.85755264,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B02-F08-U04-Z1C81",
+        "legacy_code": "B-F08-U04",
+        "type": "apartment",
+        "building_id": "B02",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": 8,
+        "unit_number": "U04",
+        "z_min": 521.841,
+        "z_max": 524.841,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.712,
+        "z_hash": "1C81"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52062458
+            ],
+            [
+              73.85793159,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52075932
+            ],
+            [
+              73.85774211,
+              18.52062458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F01-U01-ZB20B",
+        "legacy_code": "C-F01-U01",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 1,
+        "unit_number": "U01",
+        "z_min": 500.301,
+        "z_max": 503.301,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.843,
+        "z_hash": "B20B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F01-U02-ZBDC3",
+        "legacy_code": "C-F01-U02",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 1,
+        "unit_number": "U02",
+        "z_min": 500.301,
+        "z_max": 503.301,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.742,
+        "z_hash": "BDC3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F01-U03-Z8681",
+        "legacy_code": "C-F01-U03",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 1,
+        "unit_number": "U03",
+        "z_min": 500.301,
+        "z_max": 503.301,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.73,
+        "z_hash": "8681"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F01-U04-Z6A0A",
+        "legacy_code": "C-F01-U04",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 1,
+        "unit_number": "U04",
+        "z_min": 500.301,
+        "z_max": 503.301,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.749,
+        "z_hash": "6A0A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F02-U01-ZB0A4",
+        "legacy_code": "C-F02-U01",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 2,
+        "unit_number": "U01",
+        "z_min": 503.301,
+        "z_max": 506.301,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.968,
+        "z_hash": "B0A4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F02-U02-Z4C16",
+        "legacy_code": "C-F02-U02",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 2,
+        "unit_number": "U02",
+        "z_min": 503.301,
+        "z_max": 506.301,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.801,
+        "z_hash": "4C16"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F02-U03-Z01A0",
+        "legacy_code": "C-F02-U03",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 2,
+        "unit_number": "U03",
+        "z_min": 503.301,
+        "z_max": 506.301,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.871,
+        "z_hash": "01A0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F02-U04-Z11A8",
+        "legacy_code": "C-F02-U04",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 2,
+        "unit_number": "U04",
+        "z_min": 503.301,
+        "z_max": 506.301,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.978,
+        "z_hash": "11A8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F03-U01-Z725A",
+        "legacy_code": "C-F03-U01",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 3,
+        "unit_number": "U01",
+        "z_min": 502.301,
+        "z_max": 505.301,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.84,
+        "z_hash": "725A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F03-U02-Z3DB3",
+        "legacy_code": "C-F03-U02",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 3,
+        "unit_number": "U02",
+        "z_min": 502.301,
+        "z_max": 505.301,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.724,
+        "z_hash": "3DB3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F03-U03-Z0BAC",
+        "legacy_code": "C-F03-U03",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 3,
+        "unit_number": "U03",
+        "z_min": 502.301,
+        "z_max": 505.301,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.841,
+        "z_hash": "0BAC"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F03-U04-ZC0C1",
+        "legacy_code": "C-F03-U04",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 3,
+        "unit_number": "U04",
+        "z_min": 502.301,
+        "z_max": 505.301,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.972,
+        "z_hash": "C0C1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F04-U01-Z288E",
+        "legacy_code": "C-F04-U01",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 4,
+        "unit_number": "U01",
+        "z_min": 509.301,
+        "z_max": 512.301,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.866,
+        "z_hash": "288E"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F04-U02-Z2B53",
+        "legacy_code": "C-F04-U02",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 4,
+        "unit_number": "U02",
+        "z_min": 509.301,
+        "z_max": 512.301,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.777,
+        "z_hash": "2B53"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F04-U03-ZFBE1",
+        "legacy_code": "C-F04-U03",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 4,
+        "unit_number": "U03",
+        "z_min": 509.301,
+        "z_max": 512.301,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.796,
+        "z_hash": "FBE1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F04-U04-Z721B",
+        "legacy_code": "C-F04-U04",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 4,
+        "unit_number": "U04",
+        "z_min": 509.301,
+        "z_max": 512.301,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.827,
+        "z_hash": "721B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F05-U01-ZB4B6",
+        "legacy_code": "C-F05-U01",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 5,
+        "unit_number": "U01",
+        "z_min": 512.301,
+        "z_max": 515.301,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.706,
+        "z_hash": "B4B6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85679474,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F05-U02-Z8D4F",
+        "legacy_code": "C-F05-U02",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 5,
+        "unit_number": "U02",
+        "z_min": 512.301,
+        "z_max": 515.301,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.96,
+        "z_hash": "8D4F"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52120848
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F05-U03-Z3600",
+        "legacy_code": "C-F05-U03",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 5,
+        "unit_number": "U03",
+        "z_min": 512.301,
+        "z_max": 515.301,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.741,
+        "z_hash": "3600"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85679474,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52147797
+            ],
+            [
+              73.85679474,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291200-B03-F05-U04-ZDF05",
+        "legacy_code": "C-F05-U04",
+        "type": "apartment",
+        "building_id": "B03",
+        "parcel_id": "P-C",
+        "parent_ulpin": "14MH27042912",
+        "floor": 5,
+        "unit_number": "U04",
+        "z_min": 512.301,
+        "z_max": 515.301,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.731,
+        "z_hash": "DF05"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85698421,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52134323
+            ],
+            [
+              73.85717369,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52147797
+            ],
+            [
+              73.85698421,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-FB1-UB01-Z0AA0",
+        "legacy_code": "D-B01",
+        "type": "basement",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": -1,
+        "unit_number": "B01",
+        "z_min": 498.66,
+        "z_max": 502.16,
+        "height_meters": 3.5,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.895,
+        "z_hash": "0AA0"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F01-U01-Z2C6E",
+        "legacy_code": "D-F01-U01",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 1,
+        "unit_number": "U01",
+        "z_min": 502.16,
+        "z_max": 505.16,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.891,
+        "z_hash": "2C6E"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52120848
+            ],
+            [
+              73.85774211,
+              18.52120848
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85755264,
+              18.52134323
+            ],
+            [
+              73.85755264,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F01-U02-Z0517",
+        "legacy_code": "D-F01-U02",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 1,
+        "unit_number": "U02",
+        "z_min": 502.16,
+        "z_max": 505.16,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.911,
+        "z_hash": "0517"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F01-U03-ZAFC7",
+        "legacy_code": "D-F01-U03",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 1,
+        "unit_number": "U03",
+        "z_min": 502.16,
+        "z_max": 505.16,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.731,
+        "z_hash": "AFC7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F01-U04-Z782C",
+        "legacy_code": "D-F01-U04",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 1,
+        "unit_number": "U04",
+        "z_min": 502.16,
+        "z_max": 505.16,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.966,
+        "z_hash": "782C"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85793159,
+              18.52134323
+            ],
+            [
+              73.85793159,
+              18.52147797
+            ],
+            [
+              73.85774211,
+              18.52147797
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F02-U01-ZDA91",
+        "legacy_code": "D-F02-U01",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 2,
+        "unit_number": "U01",
+        "z_min": 505.16,
+        "z_max": 508.16,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.711,
+        "z_hash": "DA91"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52120848
+            ],
+            [
+              73.85774211,
+              18.52120848
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85755264,
+              18.52134323
+            ],
+            [
+              73.85755264,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F02-U02-Z0E9B",
+        "legacy_code": "D-F02-U02",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 2,
+        "unit_number": "U02",
+        "z_min": 505.16,
+        "z_max": 508.16,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.861,
+        "z_hash": "0E9B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F02-U03-Z5053",
+        "legacy_code": "D-F02-U03",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 2,
+        "unit_number": "U03",
+        "z_min": 505.16,
+        "z_max": 508.16,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.941,
+        "z_hash": "5053"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F02-U04-Z2FA9",
+        "legacy_code": "D-F02-U04",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 2,
+        "unit_number": "U04",
+        "z_min": 505.16,
+        "z_max": 508.16,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.934,
+        "z_hash": "2FA9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85793159,
+              18.52134323
+            ],
+            [
+              73.85793159,
+              18.52147797
+            ],
+            [
+              73.85774211,
+              18.52147797
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F03-U01-ZBB2A",
+        "legacy_code": "D-F03-U01",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 3,
+        "unit_number": "U01",
+        "z_min": 508.16,
+        "z_max": 511.16,
+        "height_meters": 3.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.976,
+        "z_hash": "BB2A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52120848
+            ],
+            [
+              73.85774211,
+              18.52120848
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85755264,
+              18.52134323
+            ],
+            [
+              73.85755264,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F03-U02-Z0C84",
+        "legacy_code": "D-F03-U02",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 3,
+        "unit_number": "U02",
+        "z_min": 508.16,
+        "z_max": 511.16,
+        "height_meters": 3.0,
+        "provenance": "BIM / CAD Floor Plan",
+        "confidence": 0.784,
+        "z_hash": "0C84"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52120848
+            ],
+            [
+              73.85793159,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52120848
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F03-U03-Z718E",
+        "legacy_code": "D-F03-U03",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 3,
+        "unit_number": "U03",
+        "z_min": 508.16,
+        "z_max": 511.16,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.774,
+        "z_hash": "718E"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85755264,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85774211,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52147797
+            ],
+            [
+              73.85755264,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F03-U04-Z2F03",
+        "legacy_code": "D-F03-U04",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 3,
+        "unit_number": "U04",
+        "z_min": 508.16,
+        "z_max": 511.16,
+        "height_meters": 3.0,
+        "provenance": "Cadastral Survey / GNSS",
+        "confidence": 0.971,
+        "z_hash": "2F03"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85774211,
+              18.52134323
+            ],
+            [
+              73.85793159,
+              18.52134323
+            ],
+            [
+              73.85793159,
+              18.52147797
+            ],
+            [
+              73.85774211,
+              18.52147797
+            ],
+            [
+              73.85774211,
+              18.52134323
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291300-B04-F04-UPH01-ZB05E",
+        "legacy_code": "D-F04-PH",
+        "type": "apartment",
+        "building_id": "B04",
+        "parcel_id": "P-D",
+        "parent_ulpin": "14MH27042913",
+        "floor": 4,
+        "unit_number": "PH01",
+        "z_min": 511.16,
+        "z_max": 514.16,
+        "height_meters": 3.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.713,
+        "z_hash": "B05E"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85764738,
+              18.52129831
+            ],
+            [
+              73.85778948,
+              18.52129831
+            ],
+            [
+              73.85778948,
+              18.52138814
+            ],
+            [
+              73.85764738,
+              18.52138814
+            ],
+            [
+              73.85764738,
+              18.52129831
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291000-B99-FB2-UMETRO1-Z5878",
+        "legacy_code": "T-01-SEG1",
+        "type": "transit_corridor",
+        "building_id": "B99",
+        "parcel_id": "P-A",
+        "parent_ulpin": "14MH27042910",
+        "floor": -2,
+        "unit_number": "METRO1",
+        "z_min": 486.801,
+        "z_max": 492.801,
+        "height_meters": 6.0,
+        "provenance": "LiDAR / Drone Mesh",
+        "confidence": 0.826,
+        "z_hash": "5878"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85660526,
+              18.52059763
+            ],
+            [
+              73.85741053,
+              18.52059763
+            ],
+            [
+              73.85741053,
+              18.52065153
+            ],
+            [
+              73.85660526,
+              18.52065153
+            ],
+            [
+              73.85660526,
+              18.52059763
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291100-B99-FB2-UMETRO2-Z1BB7",
+        "legacy_code": "T-01-SEG2",
+        "type": "transit_corridor",
+        "building_id": "B99",
+        "parcel_id": "P-B",
+        "parent_ulpin": "14MH27042911",
+        "floor": -2,
+        "unit_number": "METRO2",
+        "z_min": 492.841,
+        "z_max": 498.341,
+        "height_meters": 5.5,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.959,
+        "z_hash": "1BB7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.85741053,
+              18.52059763
+            ],
+            [
+              73.85812106,
+              18.52059763
+            ],
+            [
+              73.85812106,
+              18.52065153
+            ],
+            [
+              73.85741053,
+              18.52065153
+            ],
+            [
+              73.85741053,
+              18.52059763
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "unit_id": "14MH2704291400-B99-FB2-UTIL1-Z3D8D",
+        "legacy_code": "U-01",
+        "type": "utility_corridor",
+        "building_id": "B99",
+        "parcel_id": "P-ROAD",
+        "parent_ulpin": "14MH27042914",
+        "floor": -2,
+        "unit_number": "UTIL1",
+        "z_min": 498.412,
+        "z_max": 499.412,
+        "height_meters": 1.0,
+        "provenance": "Mobile Mapping LiDAR",
+        "confidence": 0.917,
+        "z_hash": "3D8D"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8567,
+              18.52097492
+            ],
+            [
+              73.85802633,
+              18.52097492
+            ],
+            [
+              73.85802633,
+              18.52099289
+            ],
+            [
+              73.8567,
+              18.52099289
+            ],
+            [
+              73.8567,
+              18.52097492
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
